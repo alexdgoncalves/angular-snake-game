@@ -1,6 +1,6 @@
 [build]
 command = "ng build --configuration=production"
-publish = "dist/gerador-certificado/browser"
+publish = "dist/snake-game/browser"
 
 [[redirects]]
 from = "/"
